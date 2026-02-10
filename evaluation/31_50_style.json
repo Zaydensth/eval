@@ -2,7 +2,7 @@
     "is_organic": false,
     "task_id": "ed7f864c-634a-4a0c-a848-f8753d0f39d6",
     "status": "success",
-    "model_id": "Lykon/dreamshaper-xl-1-0",
+    "model_id": "zenless-lab/sdxl-anything-xl",
     "ds": "street_art_0db03c38-ecf8-4177-abf2-f819ea839d68",
     "account_id": "00000000-0000-0000-0000-000000000000",
     "times_delayed": 0,
